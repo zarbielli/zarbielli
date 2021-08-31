@@ -12,14 +12,12 @@
 <br>
 <div>
   <a href="https://github.com/zarbielli">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zarbielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="150em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarbielli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zarbielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="170em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarbielli&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
 <br>
  
-![Snake animation](https://github.com/zarbielli/zarbielli/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> 
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
