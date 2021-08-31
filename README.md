@@ -12,9 +12,8 @@
 <br>
 <div>
   <a href="https://github.com/zarbielli">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=zarbielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="145em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarbielli&layout=compact&langs_count=7&theme=dark"/>
-  <img id="img-pc2" width="100em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zarbielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="200em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarbielli&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
 <br>
