@@ -3,7 +3,7 @@
 
 - :books:	I’m currently studying at University of Brasilia   
 - :computer: My course is Software Engineering
-- 💎: Ruby backend developer
+- 💎 Ruby backend developer
 - :zap: I’m currently learning Go and TypeScript                                          
 - 📫 How to reach me: jlfz06@gmail.com                             
 - :camera_flash: More about me:  <a href="https://www.instagram.com/fzarbielli/">@fzarbielli</a> 
