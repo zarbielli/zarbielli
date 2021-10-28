@@ -29,3 +29,7 @@
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
+ 
+ <p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=zarbielli&style=flat-square&label=Visitors" />
+</p>
