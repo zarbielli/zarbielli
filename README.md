@@ -4,7 +4,7 @@
 - :books:	I’m currently studying at University of Brasilia   
 - :computer: My course is Software Engineering
 - 💎 Ruby backend developer
-- :zap: I’m currently learning Go and TypeScript                                          
+- :zap: I’m currently learning Go and C++                                          
 - 📫 How to reach me: jlfz06@gmail.com                             
 - :camera_flash: More about me:  <a href="https://www.instagram.com/fzarbielli/">@fzarbielli</a> 
 - :earth_americas: I am a english and portuguese speaker 
@@ -25,7 +25,7 @@
 <p align="center"> 
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
