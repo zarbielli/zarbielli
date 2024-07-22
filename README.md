@@ -6,14 +6,11 @@
  - My expertise spans web development, data visualization, and supporting complex investigations.
  - Outside work, I enjoy watching movies, listening to music, reading, and swimming
 
-#### Languages
+#### Techs
 - Ruby, Python, JavaScript, Go, C++
-#### Frameworks
 - Ruby on Rails, Flasks, Express, Revel, Vue/Nuxt, React
-#### Libs
 - Sidekiq, Redis, ScikitLearn, Pandas, NumPy
-#### Infra
--  Docker, AWS, Kubernets, Terraform
+- Docker, AWS, Kubernets, Terraform
 
 <br>
  <div align="center">
