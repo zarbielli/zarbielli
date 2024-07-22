@@ -5,8 +5,7 @@
 - :computer: My course is Software Engineering
 - 💎 Ruby backend developer
 - :zap: I’m currently learning Go and C++                                          
-- 📫 How to reach me: jlfz06@gmail.com                             
-- :camera_flash: More about me:  <a href="https://www.instagram.com/fzarbielli/">@fzarbielli</a> 
+- 📫 How to reach me: joao.zarbielli@gmail.com                             
 - :earth_americas: I am a english and portuguese speaker 
  
 <br>
@@ -28,6 +27,7 @@
   <img  height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  height="30" width="40" src="https://w7.pngwing.com/pngs/980/549/png-transparent-vuejs-original-logo-icon-thumbnail.png">
 </p>
 
 <div align="center">
