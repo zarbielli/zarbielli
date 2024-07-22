@@ -1,20 +1,26 @@
 ### Hi, I am João Lucas Zarbiélli! 👋
 ###
 
-- :books:	I’m currently studying at University of Brasilia   
-- :computer: My course is Software Engineering
-- 💎 Ruby backend developer
-- :zap: I’m currently learning Go and C++                                          
-- 📫 How to reach me: joao.zarbielli@gmail.com                             
-- :earth_americas: I am a english and portuguese speaker 
- 
+ - I am João Lucas Zarbiélli, a software engineer who always aims to build innovative and impactful web applications.
+ - Currently, I'm at MIT FutureTech, developing and maintaining systems for interdisciplinary research projects.
+ - My expertise spans web development, data visualization, and supporting complex investigations.
+ - Outside work, I enjoy watching movies, listening to music, reading, and swimming
+
+#### Languages
+- Ruby, Python, JavaScript, Go, C++
+#### Frameworks
+- Ruby on Rails, Flasks, Express, Revel, Vue/Nuxt, React
+#### Libs
+- Sidekiq, Redis, ScikitLearn, Pandas, NumPy
+#### Infra
+-  Docker, AWS, Kubernets, Terraform
+
 <br>
-<div>
+ <div align="center">
   <a href="https://github.com/zarbielli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zarbielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarbielli&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zarbielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+   <img height="180em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarbielli&layout=compact&langs_count=7&theme=dark"/>
 </div> 
- 
 <br>
 
 <div align="center">
